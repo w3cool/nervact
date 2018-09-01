@@ -1,0 +1,6 @@
+[submodule "ciwe"]
+	path = ciwe
+	url = https://github.com/billsion/ciwe
+[submodule "ciwe_bot"]
+	path = ciwe_bot
+	url = https://github.com/billsion/ciwe_bot
