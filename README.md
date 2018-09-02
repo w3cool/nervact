@@ -8,7 +8,7 @@ nervact             //root path
 │
 ├─contract          //smart contract
 │
-├─wxapp/nervact     //新闻小女程序
+├─wxapp/nervact     //NervAct小程序程序
 │
 └─readme.md         //just me
 
