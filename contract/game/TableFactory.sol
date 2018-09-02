@@ -16,6 +16,7 @@ contract TableFactory is Ownable {
       uint8 top1 = 100;
       uint8 top2 = 0;
       uint8 top3 = 0;
+      //add it
       uint32 readyTime;
     }
 

@@ -1,6 +1,6 @@
 # cjysp-mini-app
 
-> 长江云视频
+> 小程序开发cjyun.org
 
 ## Build Setup
 

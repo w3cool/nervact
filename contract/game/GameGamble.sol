@@ -14,7 +14,7 @@ contract GameGamble is Gambles {
     function withdraw() external onlyOwner {
         owner.transfer(this.balance);
     }
-
+    // 提前到指定账户 前端控制
     function withdraw(address _address) external onlyOwner {
         _address.transfer(this.balance);
     }

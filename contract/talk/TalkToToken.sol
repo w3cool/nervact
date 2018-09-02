@@ -18,7 +18,7 @@ contract TalkToToken is Ownable {
       string data;
       unit value;
     }
-    
+    //先写成静态
     string[] valueString = new string[]('区块链','共识机制','去中心化','CITA','存在性证明','经济模型','智能合约',
 '侧链')
 
